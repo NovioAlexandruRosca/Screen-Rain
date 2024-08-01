@@ -1,7 +1,6 @@
 import curses
 import random
 import string
-import psutil
 
 
 def init_colors():
